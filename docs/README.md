@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student/doctoral researcher in the Department of Computer at the University of Helsinki in Finland. My research is on NLP, specifically methods and models for analysis of multilingal news data. 
+I am a PhD student and doctoral researcher in the Department of Computer at the University of Helsinki in Finland. My research is on NLP, specifically methods and models for analysis of multilingal news data. 
 
 I am particularly interested in topic models for multilingual, diachronic, or multimodal data (or combinations thereof). I have done research on diachronic semantic change, multilingual news linking, and headline generation.
 
@@ -35,3 +35,43 @@ Zosa, Elaine; Granroth-Wilding, Mark
 Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2019)
 <https://aclanthology.org/R19-1159.pdf>
 
+### Diachronic semantic change
+
+*The expansion of isms, 1820-1917 : Data-driven analysis of political language in digitized newspaper collections* 
+Marjanen, Jani; Kurunmäki, Jussi Antero; Pivovarova, Lidia; Zosa, Elaine.
+Journal of Data Mining and Digital Humanities, 2020.
+<https://doi.org/10.46298/jdmdh.6159>
+
+
+*Capturing Evolution in Word Usage: Just Add More Clusters?* 
+Martinc, Matej; Montariol, Syrielle; Zosa, Elaine; Pivovarova, Lidia.
+WWW ’20 Companion. Taipei : ACM, 2020. p. 343-349.
+<https://dl.acm.org/doi/10.1145/3366424.3382186> 
+
+
+### Headline generation
+
+*Effectiveness of Data Augmentation and Pretraining for Improving Neural Headline Generation in Low-Resource Settings* 
+Martinc, Matej; Montariol, Syrielle; Pivovarova, Lidia; Zosa, Elaine
+Accepted to Language Evaluation and Resources Conference (LREC 2022)
+_To appear_
+
+
+### Multilingual text analysis
+
+*EMBEDDIA at SemEval-2022 Task 8: Investigating Sentence, Image, and Knowledge Graph Representations for Multilingual News Article Similarity*
+Zosa, Elaine; Boros, Emanuela; Koloski, Boshko; Pivovarova, Lidia
+Accepted to The 16th International Workshop on Semantic Evaluation (SemEval 2022)
+_To appear_
+
+
+## Links
+
+[Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1)
+[Semantic Scholar](https://www.semanticscholar.org/author/83939452)
+
+
+## Projects
+
+NewsEye (2018-2022) <newseye.eu>
+EMBEDDIA (2019-2022) <embeddia.eu> 
