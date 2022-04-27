@@ -68,10 +68,12 @@ _To appear_
 ## Links
 
 [Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1)
+
 [Semantic Scholar](https://www.semanticscholar.org/author/83939452)
 
 
 ## Projects
 
-NewsEye (2018-2022) <newseye.eu>
-EMBEDDIA (2019-2022) <embeddia.eu> 
+[NewsEye (2018-2022)](newseye.eu)
+
+[EMBEDDIA (2019-2022)](embeddia.eu)
