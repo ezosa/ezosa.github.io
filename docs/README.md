@@ -71,9 +71,10 @@ _To appear_
 
 [Semantic Scholar](https://www.semanticscholar.org/author/83939452)
 
+[LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)
 
 ## Projects
 
-[NewsEye (2018-2022)](newseye.eu)
+[NewsEye (2018-2022)](https://www.newseye.eu/)
 
-[EMBEDDIA (2019-2022)](embeddia.eu)
+[EMBEDDIA (2019-2022)](https://www.embeddia.eu)
