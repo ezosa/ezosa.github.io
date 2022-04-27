@@ -9,6 +9,7 @@ I am particularly interested in topic models for multilingual, diachronic, or mu
 ### Topic models
 
 **Multilingual Topic Labelling of News Topics using Ontological Mapping** 
+
 by Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana.
 *The 44th European Conference on Information Retrieval (ECIR 2022)*
 <https://link.springer.com/chapter/10.1007/978-3-030-99739-7_29>
