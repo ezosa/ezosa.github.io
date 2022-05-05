@@ -66,7 +66,7 @@ _To appear_
 **EMBEDDIA at SemEval-2022 Task 8: Investigating Sentence, Image, and Knowledge Graph Representations for Multilingual News Article Similarity** \
 Zosa, Elaine; Boros, Emanuela; Koloski, Boshko; Pivovarova, Lidia\
 *Accepted to The 16th International Workshop on Semantic Evaluation (SemEval 2022)*\
-_To appear_
+_To appear_ \
 Code: <https://github.com/bkolosk1/semeval-2022-MNS>
 
 
