@@ -10,10 +10,9 @@ I am particularly interested in topic models for multilingual, diachronic, or mu
 
 **Multilingual Topic Labelling of News Topics using Ontological Mapping** 
 Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana.
-*The 44th European Conference on Information Retrieval (ECIR 2022)*
-
-**Paper:** <https://link.springer.com/chapter/10.1007/978-3-030-99739-7_29>
-**Code:** <https://github.com/ezosa/topic-labelling>
+*The 44th European Conference on Information Retrieval (ECIR 2022)*\
+**Paper:** <https://link.springer.com/chapter/10.1007/978-3-030-99739-7_29>\
+**Code:** <https://github.com/ezosa/topic-labelling>\
 
 **Not All Comments are Equal: Insights into Comment Moderation from a Topic-Aware Model** 
 Zosa, Elaine; Shekhar, Ravi; Karan, Mladen ; Purver, Matthew.
