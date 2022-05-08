@@ -56,8 +56,8 @@ Code: <https://github.com/smontariol/AddMoreClusters>
 
 **Discovery Team at SemEval-2020 Task 1: Context-sensitive Embeddings not Always Better Than Static for Semantic Change Detection** \
 Martinc, Matej; Montariol, Syrielle; Pivovarova, Lidia; Zosa, Elaine.\
-*Proceedings of the Fourteenth Workshop on Semantic Evaluation (SemEval 2020)*
-Paper: <https://aclanthology.org/2020.semeval-1.6/>
+*Proceedings of the Fourteenth Workshop on Semantic Evaluation (SemEval 2020)* \
+Paper: <https://aclanthology.org/2020.semeval-1.6/> \
 Code: <https://github.com/smontariol/Semeval2020-Task1>
 
 ### Headline generation
