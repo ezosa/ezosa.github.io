@@ -54,6 +54,12 @@ Martinc, Matej; Montariol, Syrielle; Zosa, Elaine; Pivovarova, Lidia.\
 Paper: <https://dl.acm.org/doi/10.1145/3366424.3382186>\
 Code: <https://github.com/smontariol/AddMoreClusters>
 
+**Discovery Team at SemEval-2020 Task 1: Context-sensitive Embeddings not Always Better Than Static for Semantic Change Detection** \
+Martinc, Matej; Montariol, Syrielle; Pivovarova, Lidia; Zosa, Elaine.\
+*Proceedings of the Fourteenth Workshop on Semantic Evaluation (SemEval 2020)*
+Paper: <https://aclanthology.org/2020.semeval-1.6/>
+Code: <https://github.com/smontariol/Semeval2020-Task1>
+
 ### Headline generation
 
 **Effectiveness of Data Augmentation and Pretraining for Improving Neural Headline Generation in Low-Resource Settings** \
