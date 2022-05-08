@@ -8,7 +8,7 @@ I am particularly interested in topic models for multilingual, diachronic, or mu
 
 ### Topic models
 
-**Multilingual Topic Labelling of News Topics using Ontological Mapping**\ 
+**Multilingual Topic Labelling of News Topics using Ontological Mapping** \ 
 Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana.\
 *The 44th European Conference on Information Retrieval (ECIR 2022)*\
 Paper: <https://link.springer.com/chapter/10.1007/978-3-030-99739-7_29>\
@@ -53,6 +53,12 @@ Martinc, Matej; Montariol, Syrielle; Zosa, Elaine; Pivovarova, Lidia.\
 *WWW ’20 Companion. Taipei : ACM, 2020. p. 343-349.*\
 Paper: <https://dl.acm.org/doi/10.1145/3366424.3382186>\
 Code: <https://github.com/smontariol/AddMoreClusters>
+
+**Discovery Team at SemEval-2020 Task 1: Context-sensitive Embeddings not Always Better Than Static for Semantic Change Detection** \
+Martinc, Matej; Montariol, Syrielle; Pivovarova, Lidia; Zosa, Elaine.\
+*Proceedings of the Fourteenth Workshop on Semantic Evaluation (SemEval 2020)* \
+Paper: <https://aclanthology.org/2020.semeval-1.6/> \
+Code: <https://github.com/smontariol/Semeval2020-Task1>
 
 ### Headline generation
 
