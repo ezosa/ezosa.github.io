@@ -87,4 +87,4 @@ Code: <https://github.com/bkolosk1/semeval-2022-MNS>
 
 ## Contact
 
-Message me in [LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)!
+Contact me in [LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)!
