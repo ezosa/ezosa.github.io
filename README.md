@@ -79,14 +79,12 @@ Code: <https://github.com/bkolosk1/semeval-2022-MNS>
 
 ## Links
 
-[Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1)
-
-[Semantic Scholar](https://www.semanticscholar.org/author/83939452)
-
-[LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)
+[Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1) | [Semantic Scholar](https://www.semanticscholar.org/author/83939452)
 
 ## Projects
 
-[NewsEye (2018-2022)](https://www.newseye.eu/)
+[NewsEye (2018-2022)](https://www.newseye.eu/) | [EMBEDDIA (2019-2022)](http://www.embeddia.eu)
 
-[EMBEDDIA (2019-2022)](http://www.embeddia.eu)
+## Contact
+
+Message me in [LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)!
