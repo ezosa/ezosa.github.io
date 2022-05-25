@@ -62,6 +62,10 @@ Martinc, Matej; Montariol, Syrielle; Pivovarova, Lidia; Zosa, Elaine\
 _To appear_ \
 Code: <https://gitlab.com/matej.martinc/headline_generation>
 
+### Others
+**The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens**
+*Genome Biology*
+Paper: <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1835-8>
 
 ## Links
 
