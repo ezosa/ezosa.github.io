@@ -78,4 +78,4 @@ Paper: <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1835
 
 ## Contact
 
-Contact me in [LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)!
+Contact me on [LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)!
