@@ -64,7 +64,7 @@ Code: <https://gitlab.com/matej.martinc/headline_generation>
 
 ### Others
 **The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens** \
-*Genome Biology (2019)* \
+*Genome Biology 20, 244 (2019)* \
 Paper: <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1835-8>
 
 ## Links
