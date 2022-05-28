@@ -4,6 +4,8 @@ I am a fourth-year PhD candidate and doctoral researcher in the Department of Co
 
 I am particularly interested in topic models for multilingual, diachronic, or multimodal data (or combinations thereof). I have also done research on diachronic semantic change, multilingual news linking, and headline generation.
 
+[Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1) | [Semantic Scholar](https://www.semanticscholar.org/author/83939452)
+
 ## My research
 
 ### Topic models
@@ -67,9 +69,6 @@ Code: <https://gitlab.com/matej.martinc/headline_generation>
 *Genome Biology 20, 244 (2019)* \
 Paper: <https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1835-8>
 
-## Links
-
-[Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1) | [Semantic Scholar](https://www.semanticscholar.org/author/83939452)
 
 ## Projects
 
