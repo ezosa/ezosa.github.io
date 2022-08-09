@@ -61,14 +61,14 @@ Code: <https://github.com/smontariol/AddMoreClusters>
 **Effectiveness of Data Augmentation and Pretraining for Improving Neural Headline Generation in Low-Resource Settings** \
 Martinc, Matej; Montariol, Syrielle; Pivovarova, Lidia; Zosa, Elaine\
 *Language Evaluation and Resources Conference (LREC 2022)*\
-_To appear_ \
+Paper: <http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.381.pdf>\
 Code: <https://gitlab.com/matej.martinc/headline_generation>
 
 ### Multilingual news similarity
 **EMBEDDIA at SemEval-2022 Task 8: Investigating Sentence, Image, and Knowledge Graph Representations for Multilingual News Article Similarity** \
 Zosa, Elaine; Boros, Emanuela; Koloski, Boshko; Pivovarova, Lidia\
-*Proceedings of the 16th International Workshop on Semantic Evaluation  (SemEval 2022)*
-Paper: <https://aclanthology.org/2022.semeval-1.156/>
+*Proceedings of the 16th International Workshop on Semantic Evaluation  (SemEval 2022)*\
+Paper: <https://aclanthology.org/2022.semeval-1.156/>\
 Code: <https://github.com/bkolosk1/semeval-2022-MNS>
 
 ### Others
