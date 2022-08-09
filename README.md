@@ -1,6 +1,6 @@
 ## About me
 
-I am a fourth-year PhD candidate and doctoral researcher in the Department of Computer Science at the University of Helsinki, Finland. My research is on NLP, specifically, on machine learning methods and models for analysing multilingal news data. 
+I am a fourth-year PhD candidate and doctoral researcher in the Department of Computer Science at the University of Helsinki, Finland. My research is on NLP, specifically, on machine learning methods for analysing multilingal news data. 
 
 I am particularly interested in topic models for multilingual, diachronic, or multimodal data (or combinations thereof). I have also done research on diachronic semantic change, multilingual news linking, and headline generation.
 
@@ -60,9 +60,16 @@ Code: <https://github.com/smontariol/AddMoreClusters>
 
 **Effectiveness of Data Augmentation and Pretraining for Improving Neural Headline Generation in Low-Resource Settings** \
 Martinc, Matej; Montariol, Syrielle; Pivovarova, Lidia; Zosa, Elaine\
-*Accepted to Language Evaluation and Resources Conference (LREC 2022)*\
+*Language Evaluation and Resources Conference (LREC 2022)*\
 _To appear_ \
 Code: <https://gitlab.com/matej.martinc/headline_generation>
+
+### Multilingual news similarity
+**EMBEDDIA at SemEval-2022 Task 8: Investigating Sentence, Image, and Knowledge Graph Representations for Multilingual News Article Similarity** \
+Zosa, Elaine; Boros, Emanuela; Koloski, Boshko; Pivovarova, Lidia\
+*Proceedings of the 16th International Workshop on Semantic Evaluation  (SemEval 2022)*
+Paper: <https://aclanthology.org/2022.semeval-1.156/>
+Code: <https://github.com/bkolosk1/semeval-2022-MNS>
 
 ### Others
 **The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens** \
