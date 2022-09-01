@@ -14,7 +14,7 @@ I am particularly interested in topic models for multilingual, diachronic, or mu
 Zosa, Elaine; Pivovarova, Lidia \
 *Accepted to the 29th International Conference on Computational Linguistics (COLING 2022)* \
 Paper: TBA \
-Code: TBA \
+Code: TBA 
 
 **Multilingual Topic Labelling of News Topics using Ontological Mapping** \ 
 Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana.\
