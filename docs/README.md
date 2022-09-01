@@ -10,6 +10,13 @@ I am particularly interested in topic models for multilingual, diachronic, or mu
 
 ### Topic models
 
+**Multilingual and Multimodal Topic Modelling with Pretrained Embeddings** \
+Zosa, Elaine; Pivovarova, Lidia \
+*Accepted to the 29th International Conference on Computational Linguistics (COLING 2022)* \
+Paper: TBA \
+Code: TBA 
+
+
 **Multilingual Topic Labelling of News Topics using Ontological Mapping** \ 
 Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana.\
 *The 44th European Conference on Information Retrieval (ECIR 2022)*\
