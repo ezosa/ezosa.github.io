@@ -1,6 +1,6 @@
 ## About me
 
-I am a fourth-year PhD candidate and doctoral researcher in the Department of Computer Science at the University of Helsinki, Finland. My research is on NLP, specifically, on machine learning methods for analysing multilingal news data. 
+I am a fourth-year PhD candidate in Computer Science at the University of Helsinki, Finland. My research is on unsupervised NLP methods for analysing multilingal news data. 
 
 I am particularly interested in topic models for multilingual, diachronic, or multimodal data (or combinations thereof). I have also done research on diachronic semantic change, multilingual news linking, and headline generation.
 
@@ -13,8 +13,8 @@ I am particularly interested in topic models for multilingual, diachronic, or mu
 **Multilingual and Multimodal Topic Modelling with Pretrained Embeddings** \
 Zosa, Elaine; Pivovarova, Lidia \
 *Accepted to the 29th International Conference on Computational Linguistics (COLING 2022)* \
-Paper: TBA \
-Code: TBA 
+Paper: To appear\
+Code: <https://github.com/ezosa/M3L-topic-model>
 
 
 **Multilingual Topic Labelling of News Topics using Ontological Mapping** \ 
