@@ -13,12 +13,12 @@ I am particularly interested in topic models for multilingual, diachronic, or mu
 **Multilingual and Multimodal Topic Modelling with Pretrained Embeddings** \
 Zosa, Elaine; Pivovarova, Lidia \
 *Accepted to the 29th International Conference on Computational Linguistics (COLING 2022)* \
-Paper: To appear\
+Paper: <https://aclanthology.org/2022.coling-1.355/> \
 Code: <https://github.com/ezosa/M3L-topic-model>
 
 
 **Multilingual Topic Labelling of News Topics using Ontological Mapping** \ 
-Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana.\
+Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana \
 *The 44th European Conference on Information Retrieval (ECIR 2022)*\
 Paper: <https://link.springer.com/chapter/10.1007/978-3-030-99739-7_29>\
 Code: <https://github.com/ezosa/topic-labelling>
