@@ -1,8 +1,6 @@
 ## About me
 
-I am a fourth-year PhD candidate in Computer Science at the University of Helsinki, Finland. My research is on unsupervised NLP methods for analysing multilingal news data. 
-
-I am particularly interested in topic models for multilingual, diachronic, or multimodal data (or combinations thereof). I have also done research on diachronic semantic change, multilingual news linking, and headline generation.
+I am a researcher in natural language processing (NLP) at the University of Helsinki, Finland.  I am particularly interested in methods for detecting trends and changes in topics ove time. I have published papers on topic modelling, diachronic semantic change, multilingual news linking, and headline generation.
 
 [Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1) | [Semantic Scholar](https://www.semanticscholar.org/author/83939452)
 
@@ -13,8 +11,7 @@ I am particularly interested in topic models for multilingual, diachronic, or mu
 **Multilingual and Multimodal Topic Modelling with Pretrained Embeddings** \
 Zosa, Elaine; Pivovarova, Lidia \
 *Accepted to the 29th International Conference on Computational Linguistics (COLING 2022)* \
-Paper: <https://aclanthology.org/2022.coling-1.355/> \
-Code: <https://github.com/ezosa/M3L-topic-model> 
+Paper: <https://aclanthology.org/2022.coling-1.355/> | Code: <https://github.com/ezosa/M3L-topic-model> 
 
 **Multilingual Topic Labelling of News Topics using Ontological Mapping** \ 
 Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana.\
