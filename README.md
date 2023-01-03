@@ -11,7 +11,7 @@ I am a researcher in natural language processing (NLP) at the University of Hels
 **Multilingual and Multimodal Topic Modelling with Pretrained Embeddings** \
 Zosa, Elaine; Pivovarova, Lidia \
 *Accepted to the 29th International Conference on Computational Linguistics (COLING 2022)* \
-Paper: <https://aclanthology.org/2022.coling-1.355/> | Code: <https://github.com/ezosa/M3L-topic-model> 
+[Paper](<https://aclanthology.org/2022.coling-1.355/) | [Code](https://github.com/ezosa/M3L-topic-model) 
 
 **Multilingual Topic Labelling of News Topics using Ontological Mapping** \ 
 Zosa, Elaine; Pivovarova, Lidia; Boggia, Michele; Ivanova, Sardana.\
