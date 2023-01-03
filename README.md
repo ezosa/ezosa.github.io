@@ -2,8 +2,6 @@
 
 I am a natural language processing (NLP) researcher at the University of Helsinki, Finland.  I am particularly interested in methods for detecting trends and changes in topics over time. I have published papers on topic modelling, diachronic semantic change, multilingual news linking, and headline generation.
 
-[Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1) | [Semantic Scholar](https://www.semanticscholar.org/author/83939452)
-
 ## My research
 
 ### Topic models
@@ -62,6 +60,7 @@ I am a natural language processing (NLP) researcher at the University of Helsink
 
 [NewsEye (2018-2022)](https://www.newseye.eu/) | [EMBEDDIA (2019-2022)](http://www.embeddia.eu)
 
-## Contact
+## Links
+[LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)!
+[Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1) 
