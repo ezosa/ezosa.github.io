@@ -49,7 +49,7 @@ I am a natural language processing (NLP) researcher at the University of Helsink
 
 ### Multilingual news similarity
 **EMBEDDIA at SemEval-2022 Task 8: Investigating Sentence, Image, and Knowledge Graph Representations for Multilingual News Article Similarity** by Zosa, Elaine; Boros, Emanuela; Koloski, Boshko; Pivovarova, Lidia\
-*SemEval 2022, Task 8*\
+*SemEval 2022*\
 [Paper](https://aclanthology.org/2022.semeval-1.156/) | [Code](https://github.com/bkolosk1/semeval-2022-MNS)
 
 ### Others
