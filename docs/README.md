@@ -1,10 +1,10 @@
-## About me
+# About me
 
-I am a natural language processing (NLP) researcher at the University of Helsinki, Finland.  I am particularly interested in methods for detecting trends and changes in topics over time. I have published papers on topic modelling, diachronic semantic change, multilingual news linking, and headline generation.
+I am a natural language processing (NLP) researcher at the University of Helsinki, Finland.  I am interested in methods for detecting trends and changes in topics over time. I have published papers on topic modelling, diachronic semantic change, multilingual news linking, and headline generation.
 
-## My research
+# My research
 
-### Topic models
+## Topic models
 
 **Multilingual and Multimodal Topic Modelling with Pretrained Embeddings** by Zosa, Elaine; Pivovarova, Lidia \
 *COLING 2022* \
@@ -29,7 +29,7 @@ I am a natural language processing (NLP) researcher at the University of Helsink
 *RANLP 2019*\
 [Paper](https://aclanthology.org/R19-1159.pdf) | [Code](https://github.com/ezosa/multilingual_dtm)
 
-### Diachronic semantic change
+## Diachronic semantic change
 
 **The expansion of isms, 1820-1917 : Data-driven analysis of political language in digitized newspaper collections** by Marjanen, Jani; Kurunmäki, Jussi Antero; Pivovarova, Lidia; Zosa, Elaine.\
 *Journal of Data Mining and Digital Humanities, 2020.*\
@@ -39,18 +39,18 @@ I am a natural language processing (NLP) researcher at the University of Helsink
 *WWW '20: Companion Proceedings of the Web Conference 2020*\
 [Paper](https://dl.acm.org/doi/10.1145/3366424.3382186) | [Code](https://github.com/smontariol/AddMoreClusters)
 
-### Headline generation
+## Headline generation
 
 **Effectiveness of Data Augmentation and Pretraining for Improving Neural Headline Generation in Low-Resource Settings** by Martinc, Matej; Montariol, Syrielle; Pivovarova, Lidia; Zosa, Elaine\
 *LREC 2022*\
 [Paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.381.pdf) | [Code](https://gitlab.com/matej.martinc/headline_generation)
 
-### Multilingual news similarity
+## Multilingual news similarity
 **EMBEDDIA at SemEval-2022 Task 8: Investigating Sentence, Image, and Knowledge Graph Representations for Multilingual News Article Similarity** by Zosa, Elaine; Boros, Emanuela; Koloski, Boshko; Pivovarova, Lidia\
 *SemEval 2022*\
 [Paper](https://aclanthology.org/2022.semeval-1.156/) | [Code](https://github.com/bkolosk1/semeval-2022-MNS)
 
-### Others
+## Others
 **The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens** \
 *Genome Biology 20, 244 (2019)* \
 [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1835-8)
@@ -61,6 +61,6 @@ I am a natural language processing (NLP) researcher at the University of Helsink
 [NewsEye (2018-2022)](https://www.newseye.eu/) | [EMBEDDIA (2019-2022)](http://www.embeddia.eu)
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)
+I'm on [LinkedIn](https://www.linkedin.com/in/elaine-zosa-30a3b48/)!
 
 [Google Scholar](https://scholar.google.com/citations?user=WmG3doYAAAAJ&hl=en&authuser=1) 
