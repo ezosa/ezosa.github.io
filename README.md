@@ -1,6 +1,6 @@
 # About me
 
-I am a natural language processing (NLP) researcher at the University of Helsinki, Finland.  I am particularly interested in methods for detecting trends and changes in topics over time. I have published papers on topic modelling, diachronic semantic change, multilingual news linking, and headline generation.
+I'm a natural language processing (NLP) researcher in the [Language Technology Group](https://blogs.helsinki.fi/language-technology/) at the University of Helsinki in Finland. My research interests include topic modelling, language change, and uncertainty modelling in language tasks.
 
 # My research
 
