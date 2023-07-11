@@ -1,12 +1,12 @@
 # About me
 
-Currently an AI Scientist for Silo AI in Helsinki. Formerly a postdoc in the [Helsinki NLP Group](https://blogs.helsinki.fi/language-technology/) Group. My research interests include topic modelling, language change, and uncertainty modelling in language tasks.
+Currently an AI Scientist for [Silo AI](https://www.silo.ai/) in Helsinki. Formerly a postdoc in the [Helsinki NLP](https://blogs.helsinki.fi/language-technology/) Group. My research interests include topic modelling, language change, and uncertainty modelling in language tasks.
 
 # My research
 
 ## Latest
 
-SemEval2024 [Task 6: SHROOM](https://helsinki-nlp.github.io/shroom): a shared task on detecting hallucinated outputs from generative language models
+I'm involved in organising [SemEval2024 Task 6: SHROOM](https://helsinki-nlp.github.io/shroom), a shared task on detecting hallucinated outputs from generative language models.
 
 ## Topic models
 
