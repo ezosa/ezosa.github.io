@@ -1,6 +1,6 @@
 # About me
 
-Currently an AI Scientist for [Silo AI](https://www.silo.ai/) in Helsinki. Formerly a postdoc in the [Helsinki NLP Group](https://blogs.helsinki.fi/language-technology/) Group. My research interests include topic modelling, language change, and uncertainty modelling in language tasks.
+Currently an AI Scientist for [Silo AI](https://www.silo.ai/) in Helsinki. Formerly a postdoc in the [Helsinki NLP](https://blogs.helsinki.fi/language-technology/) Group. My research interests include topic modelling, language change, and uncertainty modelling in language tasks.
 
 # My research
 
