@@ -6,7 +6,7 @@ Currently an AI Scientist for [Silo AI](https://www.silo.ai/) in Helsinki. Forme
 
 ## Latest
 
-SemEval2024 [Task 6: SHROOM](https://helsinki-nlp.github.io/shroom): a shared task on detecting hallucinated outputs from generative language models
+I'm involved in organising [SemEval2024 Task 6: SHROOM](https://helsinki-nlp.github.io/shroom), a shared task on detecting hallucinated outputs from generative language models
 
 ## Topic models
 
